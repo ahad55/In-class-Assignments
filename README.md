@@ -1,2 +1,2 @@
-# Using-Nested-Classes-
-This code will be a simple demonstration of using nested classes 
+# In-class Assignments 
+These code samples are from assignments I had completed in class. 
